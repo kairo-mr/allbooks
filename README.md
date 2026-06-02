@@ -5,7 +5,7 @@ O AllBooks é uma loja virtual que vende livros da Casa do Código.
 
 # JSONServer + JWT Auth
 
-Eassa é ma API Rest mockada, utilizando json-server e JWT.
+Essa é ma API Rest mockada, utilizando json-server e JWT.
 
 ## 🛠️ Instalação
 
